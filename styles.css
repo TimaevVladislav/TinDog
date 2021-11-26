@@ -1,0 +1,141 @@
+body{
+  font-family: 'Montserrat, sans-serif';
+}
+
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+}
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+.nearby{
+
+font-size: 4.5rem;
+line-height: 1.5;
+font-weight: bolder;
+}
+
+/* Navigation bar */
+.navbar {
+  padding-bottom: 4.5rem;
+  padding-top: 2.0rem;
+}
+.navbar-brand{
+  padding-left: 10px;
+  font-weight: bold;
+  font-size: 2.5em;
+  font-family: "Ubuntu";
+
+}
+h2{
+    font-family: "Montserrat-Bold";
+    font-size: 3em;
+    line-height: 1.5em;
+}
+h3{
+  font-family: "Montserrat-Bold";
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0px 18px;
+  font-size: 2rem;
+}
+/* Dowload Buttons */
+.download-button {
+ margin: 5% 3% 5% 0%;
+}
+/* Image-Iphone */
+.iphone-image{
+  height: 70%;
+  width: 25%;
+  text-align: center;
+  transform: rotate(25deg);
+  position: absolute;
+  margin: auto;
+  right: 20%;
+}
+#features p{
+  font-family: "Montserrat";
+  font-style: 1.5em;
+  color: #8f8f8f;
+
+
+}
+#features{
+   padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+.iphone-image{
+
+  z-index: 1;
+}
+.logo{
+  margin: 0 auto;
+  text-align: center;
+  font-size: 4rem;
+  color: #ff4c68;
+  margin: 0px 15px;
+  display: inline;
+  margin-top: 35px;
+
+}
+#about{
+  padding: 5% 5% 5% 5%;
+  text-align: center;
+}
+.logo:hover{
+  color: red;
+}
+/* Testimonials */
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #EF8172;
+  color: #FFF;
+}
+.testimonials-image{
+  width: 10%;
+  border-radius: 50%;
+  margin: 20px;
+}
+#press{
+  background-color: #EF8172;
+  text-align: center;
+  padding: 5%;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.carousel-item{
+  padding: 7% 15%;
+
+}
+.carousel-control-next-icon{
+  padding: 7% 15%;
+}
+ .carousel-control-prev-icon{
+   padding: 7% 15%;
+ }
+.card-body{
+  padding: 3% 15%;
+  margin: 0% 10%;
+}
+.card{
+  font-family: "Montserrat";
+}
+.card-header{
+  font-size: 2em;
+  font-weight: bold;
+}
+/* Painting pracing */
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.prising-column {
+  padding: 3% 2%;
+}
